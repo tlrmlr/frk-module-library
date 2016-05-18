@@ -13,10 +13,8 @@ This library contains documentation for creating a scalable UI. The code in this
 
 - This system should be viewed with Google Chrome. Other browers may not be supported.
 
-**Project Status**
-
-Function | Status
+Features | Status
 -------- | ------
 Repository | Created
-File Structure | TBA
+File Structure | 5/21/2016
 Modules Added | TBA
