@@ -13,7 +13,7 @@ This library contains documentation for creating a scalable UI. The code in this
 
 - This system should be viewed with Google Chrome. Other browers may not be supported.
 
-**Status**
+**Project Status**
 
 Function | Status
 -------- | ------
