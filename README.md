@@ -1,7 +1,7 @@
 # frk-module-library
 A UI library.
 
-This library contains documentation for creating a scalable UI. The code in this repository example code. We have chosen to use Github + Code for our module library for five reasons:
+This library contains documentation for creating a scalable UI. The code in this repository is example code. We have chosen to use Github + Code for our module library for five reasons:
 
 1. Instant documentation of how the designs are intended to be built.
 2. Instant updates to the design once the changes are applied.
