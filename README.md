@@ -9,6 +9,14 @@ This library contains documentation for creating a scalable UI. The code in this
 4. Track changes to the system.
 5. Create reusable patterns & content.
 
-Please note:
+**Please note:**
 
 - This system should be viewed with Google Chrome. Other browers may not be supported.
+
+Features | Status
+-------- | ------
+Repository | Created
+File Structure | 5/21/2016
+Modules Added | TBA
+Module Control Page | TBA
+Pattern Sheet | TBA
