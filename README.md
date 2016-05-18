@@ -15,7 +15,7 @@ This library contains documentation for creating a scalable UI. The code in this
 
 Features | Status
 -------- | ------
-Repository | Created
+~~Repository~~ | ~~Created~~
 File Structure | 5/21/2016
 Modules Added | TBA
 Module Control Page | TBA
